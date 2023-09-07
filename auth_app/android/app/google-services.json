@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125867429985",
+    "project_id": "intuitive-app-3f9fb",
+    "storage_bucket": "intuitive-app-3f9fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125867429985:android:0f63899d4d2d385655da20",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125867429985-pe9ris16v8j4n6emrq0ngppfg5vkn8qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZlZNwnIY3rw3QHZjvn6ja-V96yPlc38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125867429985-pe9ris16v8j4n6emrq0ngppfg5vkn8qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
